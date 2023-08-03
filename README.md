@@ -53,3 +53,7 @@ If you encounter any issues while running the program, please check your system 
 - Change voice from default macOS to Eleven Labs (maybe your mom's?) - https://elevenlabs.io/
 - Add more detailed logs and create charts from this data
 - Connect the program with room lights or with char electricity??
+
+You can run this program as a macOS shortcut or Keyboard Maestro by simply running a shell script.
+![image](https://github.com/miekki-jerry/posture_recognition/assets/100033698/63174c2e-3260-41eb-b97b-79b2d2db7d8c)
+
