@@ -5,11 +5,18 @@ It uses your webcam to capture real-time video, applies pose estimation to detec
 The program displays the calculated angle on the screen and visually marks the angle on your body. 
 If the angle exceeds 35 degrees, indicating a potential postural defect, the program alerts you by drawing a red border around the screen and using Siri's voice to say "Bad posture, Bob".
 
-This program is unique and cool because it:
+This program is cool because it:
 
 - Helps to promote good posture habits by providing real-time feedback.
 - Logs your posture data over time, allowing you to track your progress.
 - Utilizes computer vision and machine learning techniques to analyze your posture.
+- is 100% written by code interpreter GPT-4
+
+<img width="481" alt="image" src="https://github.com/miekki-jerry/posture_recognition/assets/100033698/a2da320a-f07e-421f-923f-636c543497c7">
+<img width="477" alt="image" src="https://github.com/miekki-jerry/posture_recognition/assets/100033698/99314e85-be2b-4f90-a68b-455874800bd2">
+
+
+  
   
 ### How to Install
 To run the program on your machine, follow these steps:
