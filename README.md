@@ -12,8 +12,8 @@ This program is cool because it:
 - Utilizes computer vision and machine learning techniques to analyze your posture.
 - is 100% written by code interpreter GPT-4
 
-<img width="481" alt="image" src="https://github.com/miekki-jerry/posture_recognition/assets/100033698/a2da320a-f07e-421f-923f-636c543497c7">
-<img width="477" alt="image" src="https://github.com/miekki-jerry/posture_recognition/assets/100033698/99314e85-be2b-4f90-a68b-455874800bd2">
+<img width="327" alt="image" src="https://github.com/miekki-jerry/posture_recognition/assets/100033698/a2da320a-f07e-421f-923f-636c543497c7">
+<img width="327" alt="image" src="https://github.com/miekki-jerry/posture_recognition/assets/100033698/99314e85-be2b-4f90-a68b-455874800bd2">
 
 
   
