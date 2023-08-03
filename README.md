@@ -40,3 +40,8 @@ Remember to adjust the camera index in the cv2.VideoCapture(1) line to match you
 Press 'q' to stop the program. This ensures that the video capture is properly released and that all windows are closed. The program logs the calculated angles in a CSV file named posture_data.csv in the same directory as the script. This file can be used to analyze your posture data over time.
 
 If you encounter any issues while running the program, please check your system compatibility and ensure that all the necessary libraries are installed. This program has been tested on macOS and may require adjustments for other operating systems.
+
+## Possible improvements
+- Change voice from default macOS to Eleven Labs (maybe your mom's?) - https://elevenlabs.io/
+- Add more detailed logs and create charts from this data
+- Connect the program with room lights or with char electricity??
