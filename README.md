@@ -18,15 +18,15 @@ To run the program on your machine, follow these steps:
 
 2. Install the necessary Python libraries. You can do this by running the following command in your terminal:
 
-'''
+```
 pip install opencv-python-headless mediapipe numpy
-'''
+```
 
 3. Run the program using Python:
-'''
+   
+```
 python posture_alert.py
-
-'''
+```
 
 ### Stack
 This program is written in Python and uses the following libraries:
