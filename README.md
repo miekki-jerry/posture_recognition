@@ -31,10 +31,11 @@ python posture_alert.py
 ### Stack
 This program is written in Python and uses the following libraries:
 
-OpenCV: Used for capturing video from the webcam, processing the frames, and displaying the results.
-MediaPipe: A machine learning library used for pose estimation.
-NumPy: Used for numerical operations, such as calculating the angle between vectors.
-Subprocess: Used for integrating with Siri to generate voice alerts.
+- OpenCV: Used for capturing video from the webcam, processing the frames, and displaying the results.
+- MediaPipe: A machine learning library used for pose estimation.
+- NumPy: Used for numerical operations, such as calculating the angle between vectors.
+- Subprocess: Used for integrating with Siri to generate voice alerts.
+
 Remember to adjust the camera index in the cv2.VideoCapture(1) line to match your system configuration. The current index 1 is generally used for external cameras, while an index of 0 is used for built-in cameras.
 
 Press 'q' to stop the program. This ensures that the video capture is properly released and that all windows are closed. The program logs the calculated angles in a CSV file named posture_data.csv in the same directory as the script. This file can be used to analyze your posture data over time.
